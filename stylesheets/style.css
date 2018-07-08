@@ -116,3 +116,7 @@ footer nav a:hover {
   color: yellow;
   transition: .3s;
 }
+
+body {
+  font-family: 'Merriweather', serif;
+}
